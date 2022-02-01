@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+}
+
+img{
+  max-width: 10rem;
+}
+
+#container{
+  padding-top: 2rem;
+  max-width: 75%;
+  margin: auto;
+}
